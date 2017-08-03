@@ -1,6 +1,9 @@
 # Book-Search
 A book search software that combine web scrapping result from adebook.com and google book
 
+Screenshot:
+![alt tag](https://github.com/vincentcheng62/Book-Search/blob/master/screenshot.png)
+
 
 Installation 
 (1) Install Python3.4 (Anaconda is recommended)
