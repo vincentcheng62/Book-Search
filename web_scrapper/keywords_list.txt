@@ -1,0 +1,12 @@
+python
+database
+perl
+sql
+data mining
+parallel computing
+statistics
+technology
+robotics
+data structures
+information
+computer vision

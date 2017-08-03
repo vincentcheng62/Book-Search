@@ -1,0 +1,614 @@
+[
+    {
+        "ISBN10": "0520040910",
+        "TITLE": "Python A Study of Delphic Myth and Its Origins by Joseph Fontenrose 1980 Hardcover",
+        "KEYOWRD": "python",
+        "SALE_PRICE": "US$ 29.77"
+    },
+    {
+        "ISBN10": "1783555149",
+        "TITLE": null,
+        "KEYOWRD": "python",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0201748843",
+        "TITLE": "Python: Visual QuickStart Guide",
+        "KEYOWRD": "python",
+        "SALE_PRICE": "US$ 4.27"
+    },
+    {
+        "ISBN10": "1449379109",
+        "TITLE": null,
+        "KEYOWRD": "python",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "1119070783",
+        "TITLE": null,
+        "KEYOWRD": "python",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0763751863",
+        "TITLE": "Python For Bioinformatics (Jones and Bartlett Series in Biomedical Informatics)",
+        "KEYOWRD": "python",
+        "SALE_PRICE": "US$ 43.16"
+    },
+    {
+        "ISBN10": "0596555717",
+        "TITLE": null,
+        "KEYOWRD": "python",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0321112547",
+        "TITLE": "Text Processing in Python",
+        "KEYOWRD": "python",
+        "SALE_PRICE": "US$ 5.24"
+    },
+    {
+        "ISBN10": "1593274076",
+        "TITLE": "Python for Kids: A Playful Introduction to Programming",
+        "KEYOWRD": "python",
+        "SALE_PRICE": "US$ 12.95"
+    },
+    {
+        "ISBN10": "0596550642",
+        "TITLE": null,
+        "KEYOWRD": "database",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0321210255",
+        "TITLE": "Database Systems: A Practical Approach to Design, Implementation and Management (4th Edition) (International Computer Science Series)",
+        "KEYOWRD": "database",
+        "SALE_PRICE": "US$ 1.00"
+    },
+    {
+        "ISBN10": "0262693143",
+        "TITLE": "Readings in Database Systems",
+        "KEYOWRD": "database",
+        "SALE_PRICE": "US$ 24.57"
+    },
+    {
+        "ISBN10": "0816653518",
+        "TITLE": "Otaku: Japan's Database Animals",
+        "KEYOWRD": "database",
+        "SALE_PRICE": "US$ 35.29"
+    },
+    {
+        "ISBN10": "128410642X",
+        "TITLE": null,
+        "KEYOWRD": "database",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "1558605002",
+        "TITLE": "Database Modeling & Design (Mo",
+        "KEYOWRD": "database",
+        "SALE_PRICE": "US$ 3.48"
+    },
+    {
+        "ISBN10": "1118081366",
+        "TITLE": null,
+        "KEYOWRD": "database",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "1449673899",
+        "TITLE": null,
+        "KEYOWRD": "perl",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "073571228X",
+        "TITLE": "Perl for C Programmers",
+        "KEYOWRD": "perl",
+        "SALE_PRICE": "US$ 32.50"
+    },
+    {
+        "ISBN10": "158112550X",
+        "TITLE": "On Perl: Perl for Students and Professionals",
+        "KEYOWRD": "perl",
+        "SALE_PRICE": "US$ 42.95"
+    },
+    {
+        "ISBN10": "144937882X",
+        "TITLE": null,
+        "KEYOWRD": "perl",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0970029721",
+        "TITLE": "Perl for Bioinformatics",
+        "KEYOWRD": "perl",
+        "SALE_PRICE": "US$ 35.87"
+    },
+    {
+        "ISBN10": "0201615711",
+        "TITLE": "Network Programming with Perl",
+        "KEYOWRD": "perl",
+        "SALE_PRICE": "US$ 7.45"
+    },
+    {
+        "ISBN10": "1565923987",
+        "TITLE": "Mastering Algorithms with Perl",
+        "KEYOWRD": "perl",
+        "SALE_PRICE": "US$ 3.48"
+    },
+    {
+        "ISBN10": "0764547836",
+        "TITLE": "Applied Perl",
+        "KEYOWRD": "perl",
+        "SALE_PRICE": "US$ 3.48"
+    },
+    {
+        "ISBN10": "0596002068",
+        "TITLE": "Programming Web Services with Perl",
+        "KEYOWRD": "perl",
+        "SALE_PRICE": "US$ 3.61"
+    },
+    {
+        "ISBN10": "0321553578",
+        "TITLE": "SQL: Visual QuickStart Guide (3rd Edition) (Visual QuickStart Guide)",
+        "KEYOWRD": "sql",
+        "SALE_PRICE": "US$ 8.42"
+    },
+    {
+        "ISBN10": "0072228857",
+        "TITLE": "SQL: A Beginner's Guide, Second Edition",
+        "KEYOWRD": "sql",
+        "SALE_PRICE": "US$ 3.48"
+    },
+    {
+        "ISBN10": "0122205316",
+        "TITLE": "SQL: Practical Guide for Developers (Paperback)",
+        "KEYOWRD": "sql",
+        "SALE_PRICE": "US$ 31.39"
+    },
+    {
+        "ISBN10": "0968955339",
+        "TITLE": "Clarion Databases & SQL, A Practial Handbook of Database Design, Flat File & SQL Data Management, and Clarion Data Handling Tricks",
+        "KEYOWRD": "sql",
+        "SALE_PRICE": "US$ 469.60"
+    },
+    {
+        "ISBN10": "0672324512",
+        "TITLE": "Sams Teach Yourself SQL in 21 Days (4th Edition) (Sams Teach Yourself)",
+        "KEYOWRD": "sql",
+        "SALE_PRICE": "US$ 4.13"
+    },
+    {
+        "ISBN10": "0596554257",
+        "TITLE": null,
+        "KEYOWRD": "sql",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0071592563",
+        "TITLE": null,
+        "KEYOWRD": "sql",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0201700476",
+        "TITLE": "The Guru's Guide to SQL Server Architecture and Internals",
+        "KEYOWRD": "sql",
+        "SALE_PRICE": "US$ 7.93"
+    },
+    {
+        "ISBN10": "0131002775",
+        "TITLE": "Oracle SQL Interactive Workbook (2nd Edition)",
+        "KEYOWRD": "sql",
+        "SALE_PRICE": "US$ 4.49"
+    },
+    {
+        "ISBN10": "1591400112",
+        "TITLE": null,
+        "KEYOWRD": "data mining",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0471474886",
+        "TITLE": null,
+        "KEYOWRD": "data mining",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0080475582",
+        "TITLE": null,
+        "KEYOWRD": "data mining",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0123814804",
+        "TITLE": null,
+        "KEYOWRD": "data mining",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "3642231667",
+        "TITLE": null,
+        "KEYOWRD": "data mining",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0080890369",
+        "TITLE": null,
+        "KEYOWRD": "data mining",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "1402073887",
+        "TITLE": "Data Mining and Decision Support: Integration and Collaboration (The Springer International Series in Engineering and Computer Science)",
+        "KEYOWRD": "data mining",
+        "SALE_PRICE": "US$ 8.97"
+    },
+    {
+        "ISBN10": "026208290X",
+        "TITLE": "Principles of Data Mining",
+        "KEYOWRD": "data mining",
+        "SALE_PRICE": "US$ 14.54"
+    },
+    {
+        "ISBN10": "8173713804",
+        "TITLE": "Data Mining Techniques",
+        "KEYOWRD": "data mining",
+        "SALE_PRICE": "US$ 16.30"
+    },
+    {
+        "ISBN10": "158603796X",
+        "TITLE": "Parallel Computing: Architectures, Algorithms and Applications (Advances in Parallel Computing)",
+        "KEYOWRD": "parallel computing",
+        "SALE_PRICE": "US$ 64.66"
+    },
+    {
+        "ISBN10": "8120306384",
+        "TITLE": "Elements of Parallel Computing",
+        "KEYOWRD": "parallel computing",
+        "SALE_PRICE": "US$ 6.83"
+    },
+    {
+        "ISBN10": "0470934638",
+        "TITLE": null,
+        "KEYOWRD": "parallel computing",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "1558605401",
+        "TITLE": "Industrial Strength Parallel Computing",
+        "KEYOWRD": "parallel computing",
+        "SALE_PRICE": "US$ 18.00"
+    },
+    {
+        "ISBN10": "8122423876",
+        "TITLE": "Parallel Computing",
+        "KEYOWRD": "parallel computing",
+        "SALE_PRICE": "US$ 3.80"
+    },
+    {
+        "ISBN10": "1420028685",
+        "TITLE": null,
+        "KEYOWRD": "parallel computing",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0131909681",
+        "TITLE": "Introduction to Distributed and Parallel Computing, An",
+        "KEYOWRD": "parallel computing",
+        "SALE_PRICE": "US$ 3.48"
+    },
+    {
+        "ISBN10": "0470349484",
+        "TITLE": null,
+        "KEYOWRD": "parallel computing",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "9051991967",
+        "TITLE": "Parallel Computing: Technology and Practice (PCAT-94), (Transputer and Occam Engineering Systems, 43)",
+        "KEYOWRD": "parallel computing",
+        "SALE_PRICE": "US$ 99.30"
+    },
+    {
+        "ISBN10": "0824782534",
+        "TITLE": "U-Statistics: Theory and Practice, by Lee",
+        "KEYOWRD": "statistics",
+        "SALE_PRICE": "US$ 158.20"
+    },
+    {
+        "ISBN10": "1449397816",
+        "TITLE": null,
+        "KEYOWRD": "statistics",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0486623491",
+        "TITLE": "The Foundations of Statistics",
+        "KEYOWRD": "statistics",
+        "SALE_PRICE": "US$ 10.17"
+    },
+    {
+        "ISBN10": "0803934211",
+        "TITLE": "Statistics: A Spectator Sport (Written Communication Annual)",
+        "KEYOWRD": "statistics",
+        "SALE_PRICE": "US$ 3.96"
+    },
+    {
+        "ISBN10": "0387402721",
+        "TITLE": "All of Statistics A Concise Course in Statistical Inference",
+        "KEYOWRD": "statistics",
+        "SALE_PRICE": "US$ 49.99"
+    },
+    {
+        "ISBN10": "0486436047",
+        "TITLE": "Statistics of Extremes",
+        "KEYOWRD": "statistics",
+        "SALE_PRICE": "US$ 11.99"
+    },
+    {
+        "ISBN10": "0804705968",
+        "TITLE": null,
+        "KEYOWRD": "statistics",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0486637603",
+        "TITLE": "Principles of Statistics (Dover Books on Mathematics)",
+        "KEYOWRD": "statistics",
+        "SALE_PRICE": "US$ 4.96"
+    },
+    {
+        "ISBN10": "0691005478",
+        "TITLE": "Mathematical Methods of Statistics. (PMS-9)",
+        "KEYOWRD": "statistics",
+        "SALE_PRICE": "US$ 39.15"
+    },
+    {
+        "ISBN10": "0816638462",
+        "TITLE": "Bodies in Technology (Paperback)",
+        "KEYOWRD": "technology",
+        "SALE_PRICE": "US$ 19.19"
+    },
+    {
+        "ISBN10": "031333028X",
+        "TITLE": "The Book: The Life Story of a Technology (Greenwood Technographies)",
+        "KEYOWRD": "technology",
+        "SALE_PRICE": "US$ 22.43"
+    },
+    {
+        "ISBN10": "0262731738",
+        "TITLE": "Technology and Social Inclusion: Rethinking the Digital Divide",
+        "KEYOWRD": "technology",
+        "SALE_PRICE": "US$ 3.81"
+    },
+    {
+        "ISBN10": "0521543320",
+        "TITLE": "Technology and Global Change",
+        "KEYOWRD": "technology",
+        "SALE_PRICE": "US$ 25.85"
+    },
+    {
+        "ISBN10": "0080540635",
+        "TITLE": null,
+        "KEYOWRD": "technology",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0538745789",
+        "TITLE": "Succeeding with Technology (New Perspectives Series: Concepts)",
+        "KEYOWRD": "technology",
+        "SALE_PRICE": "US$ 1.99"
+    },
+    {
+        "ISBN10": "1573563374",
+        "TITLE": "Robotics: A Reference Guide to the New Technology",
+        "KEYOWRD": "robotics",
+        "SALE_PRICE": "US$ 8.97"
+    },
+    {
+        "ISBN10": "1848160070",
+        "TITLE": null,
+        "KEYOWRD": "robotics",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "1846286417",
+        "TITLE": "Robotics",
+        "KEYOWRD": "robotics",
+        "SALE_PRICE": "US$ 85.34"
+    },
+    {
+        "ISBN10": "026263354X",
+        "TITLE": "Robotics Primer",
+        "KEYOWRD": "robotics",
+        "SALE_PRICE": "US$ 8.06"
+    },
+    {
+        "ISBN10": "8189866389",
+        "TITLE": "Robotics",
+        "KEYOWRD": "robotics",
+        "SALE_PRICE": "US$ 4.30"
+    },
+    {
+        "ISBN10": "0822557746",
+        "TITLE": "Robotics (Cool Science)",
+        "KEYOWRD": "robotics",
+        "SALE_PRICE": "US$ 3.48"
+    },
+    {
+        "ISBN10": "0126185204",
+        "TITLE": "Robotics, Second Edition: Designing the Mechanisms for Automated Machinery",
+        "KEYOWRD": "robotics",
+        "SALE_PRICE": "US$ 3.61"
+    },
+    {
+        "ISBN10": "3319325523",
+        "TITLE": null,
+        "KEYOWRD": "robotics",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "1449631576",
+        "TITLE": null,
+        "KEYOWRD": "robotics",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0521663504",
+        "TITLE": "Purely Functional Data Structures",
+        "KEYOWRD": "data structures",
+        "SALE_PRICE": "US$ 40.72"
+    },
+    {
+        "ISBN10": "1259083047",
+        "TITLE": null,
+        "KEYOWRD": "data structures",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "9332900930",
+        "TITLE": null,
+        "KEYOWRD": "data structures",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "8184316593",
+        "TITLE": null,
+        "KEYOWRD": "data structures",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "8184317743",
+        "TITLE": null,
+        "KEYOWRD": "data structures",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0534492525",
+        "TITLE": "Data Structures and Algorithms in Java, Second Edition",
+        "KEYOWRD": "data structures",
+        "SALE_PRICE": "US$ 10.00"
+    },
+    {
+        "ISBN10": "8184310846",
+        "TITLE": null,
+        "KEYOWRD": "data structures",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "8184311842",
+        "TITLE": null,
+        "KEYOWRD": "data structures",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "9812791248",
+        "TITLE": null,
+        "KEYOWRD": "data structures",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "1423901789",
+        "TITLE": "Management Information Systems, Sixth Edition",
+        "KEYOWRD": "information",
+        "SALE_PRICE": "US$ 5.59"
+    },
+    {
+        "ISBN10": "0521580447",
+        "TITLE": "The Physics of Information Technology",
+        "KEYOWRD": "information",
+        "SALE_PRICE": "US$ 12.41"
+    },
+    {
+        "ISBN10": "0735562458",
+        "TITLE": "Privacy, Information And Technology (Aspen Elective)",
+        "KEYOWRD": "information",
+        "SALE_PRICE": "US$ 3.48"
+    },
+    {
+        "ISBN10": "1930708459",
+        "TITLE": null,
+        "KEYOWRD": "information",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0199546320",
+        "TITLE": "Designing Management Information Systems",
+        "KEYOWRD": "information",
+        "SALE_PRICE": "US$ 5.02"
+    },
+    {
+        "ISBN10": "1573565210",
+        "TITLE": "Milestones in Computer Science and Information Technology",
+        "KEYOWRD": "information",
+        "SALE_PRICE": "US$ 3.48"
+    },
+    {
+        "ISBN10": "1847876528",
+        "TITLE": null,
+        "KEYOWRD": "information",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "9381335052",
+        "TITLE": null,
+        "KEYOWRD": "information",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "157387230X",
+        "TITLE": "Theories of Information Behavior",
+        "KEYOWRD": "information",
+        "SALE_PRICE": "US$ 75.00"
+    },
+    {
+        "ISBN10": "0323141560",
+        "TITLE": null,
+        "KEYOWRD": "computer vision",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "1402032749",
+        "TITLE": "Machine Learning in Computer Vision (Computational Imaging and Vision)",
+        "KEYOWRD": "computer vision",
+        "SALE_PRICE": "US$ 76.30"
+    },
+    {
+        "ISBN10": "1848829353",
+        "TITLE": null,
+        "KEYOWRD": "computer vision",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0262061589",
+        "TITLE": "3 Dimensional Computer Vision, by Faugeras",
+        "KEYOWRD": "computer vision",
+        "SALE_PRICE": "US$ 23.75"
+    },
+    {
+        "ISBN10": "1846280656",
+        "TITLE": null,
+        "KEYOWRD": "computer vision",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "1447141504",
+        "TITLE": null,
+        "KEYOWRD": "computer vision",
+        "SALE_PRICE": null
+    },
+    {
+        "ISBN10": "0521766877",
+        "TITLE": "Computer Vision for Visual Effects",
+        "KEYOWRD": "computer vision",
+        "SALE_PRICE": "US$ 57.79"
+    },
+    {
+        "ISBN10": "9814343005",
+        "TITLE": null,
+        "KEYOWRD": "computer vision",
+        "SALE_PRICE": null
+    }
+]
